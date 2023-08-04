@@ -1,0 +1,124 @@
+{
+  "project_info": {
+    "project_number": "850469558181",
+    "project_id": "yobray-4c4ac",
+    "storage_bucket": "yobray-4c4ac.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:850469558181:android:45cd75597aab2744a0fa4c",
+        "android_client_info": {
+          "package_name": "com.yobray.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "850469558181-anq891kbpnv54oussgdosn20le7cji9j.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.yobray.app",
+            "certificate_hash": "22e38af909bc7599658e8cd0fc47b96b9f85df45"
+          }
+        },
+        {
+          "client_id": "850469558181-cjf5u0f2otvbaljac94ma4ca0etgoam4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.yobray.app",
+            "certificate_hash": "7b578803f42a97d8510e1768a0792a89c1172cec"
+          }
+        },
+        {
+          "client_id": "850469558181-ho9qpt69n2prn5d24jhtntaivoah0j9v.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.yobray.app",
+            "certificate_hash": "49833a08b603a0d4a20e21a9c15cfc06dd7aaf60"
+          }
+        },
+        {
+          "client_id": "850469558181-jl8sthojj2henn0b7vkv60icset5ftjb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.yobray.app",
+            "certificate_hash": "703d6c57c3f7bf12c62339d713119e7bcc55980d"
+          }
+        },
+        {
+          "client_id": "850469558181-vf7obgtlsjkkqj73culvdik67g7gkvb3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAiXXvJsen2hP-FZmDE-HC2oev7LIQRhxY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "850469558181-vf7obgtlsjkkqj73culvdik67g7gkvb3.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "850469558181-85ickdv6m5eg25o9p6544vjhar4sldhp.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.yobray.apps",
+                "app_store_id": "1596062728"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:850469558181:android:7a6bb932d703cee3a0fa4c",
+        "android_client_info": {
+          "package_name": "com.yobrayapp.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "850469558181-5rhm4fl4mgappcfpi02e31efntpi1c5m.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.yobrayapp.app",
+            "certificate_hash": "3b801683f499c3ec05bbfdbdccf3ce0f6d20e9a7"
+          }
+        },
+        {
+          "client_id": "850469558181-vf7obgtlsjkkqj73culvdik67g7gkvb3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAiXXvJsen2hP-FZmDE-HC2oev7LIQRhxY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "850469558181-vf7obgtlsjkkqj73culvdik67g7gkvb3.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "850469558181-85ickdv6m5eg25o9p6544vjhar4sldhp.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.yobray.apps",
+                "app_store_id": "1596062728"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

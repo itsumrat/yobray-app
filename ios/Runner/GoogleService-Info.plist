@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>850469558181-85ickdv6m5eg25o9p6544vjhar4sldhp.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.850469558181-85ickdv6m5eg25o9p6544vjhar4sldhp</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>850469558181-anq891kbpnv54oussgdosn20le7cji9j.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCns8uysFBLZ8E1gYj6zOk_4C-y1Q5P2gg</string>
+	<key>GCM_SENDER_ID</key>
+	<string>850469558181</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.yobray.apps</string>
+	<key>PROJECT_ID</key>
+	<string>yobray-4c4ac</string>
+	<key>STORAGE_BUCKET</key>
+	<string>yobray-4c4ac.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false/>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false/>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true/>
+	<key>IS_GCM_ENABLED</key>
+	<true/>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true/>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:850469558181:ios:05303102e5f36878a0fa4c</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+paypal demo payment id: sb-ths4397399611@personal.example.com,
+ password: q*D_D(;4
+
+
+Braintree sandbox
+Username: yobrayapp1221 
+Password: SideHustle2021
+
+PayPal login credential:
+yobrayapp@gmail.com 
+SideHustle2020
+
+
+http://localhost/yobray_api/public/api/paidUser
+post
+
+http://api.yobray.com/public/api/activity_expenses/210/delete
+
+
+
+Expenses report* Set Low Stock for Product* Status in the Report Section* Copy and Extended Feed for Job* Custom Sale Price & Expense for Product
+1.3.2+10

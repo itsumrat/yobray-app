@@ -1,0 +1,7 @@
+ 
+password: SideHustle2020
+first and last name: Shaquon Shakur
+what is the name of your org unit? ans: "IT"
+org name : "Yobray"
+city: "Bridgetown"
+state: "BB"
